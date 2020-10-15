@@ -31,7 +31,7 @@ int main()
         }
         else
             cv::imshow("frame",frame);
-        waitKey(30);
+        waitKey(3);
     }
     return 0;
 }
